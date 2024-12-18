@@ -12,11 +12,15 @@ Reaproveitar partes da nossa aplicação em apenas algumas rotas em vez de todas
 Olhar também as rotas index [https://reactrouter.com/en/main/start/concepts#index-routes].
 
 Na rota "/", a estrutura a ser renderizada é:
+```
 <PaginaPadrao>
   <Inicio />
 </PaginaPadrao>
+```` 
 
 Na rota "/sobremim", a estrutura a ser renderizada é:
+```
 <PaginaPadrao>
   <SobreMim />
 </PaginaPadrao>
+```
